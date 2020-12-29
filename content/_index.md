@@ -4,7 +4,7 @@ hide_title: true
 sections:
 - type: section_hero
   template: section_hero
-  title: Hi, I'm Stackbit Fresh.
+  title: Hi, I'm Kentum.
   section_id: hero
   content: This section can contain a subtitle or tagline. The recommended length
     is one to three sentences, but can be changed as you prefer.
@@ -40,6 +40,6 @@ sections:
     icon_class: ''
     new_window: false
 layout: advanced
-excerpt: Esto es Kentum
+excerpt: Esto es Kentum 2
 
 ---
