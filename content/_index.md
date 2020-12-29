@@ -1,5 +1,5 @@
 ---
-title: Kentum
+title: Home
 hide_title: true
 sections:
 - type: section_hero
