@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Stackbit Fresh
+    title: Kentum Software
     tagline: Header Tagline
     profile_img: images/avatar.png
     background: dark
