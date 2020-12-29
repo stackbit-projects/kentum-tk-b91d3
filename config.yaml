@@ -8,7 +8,7 @@ params:
     type: header
     template: header
     title: Kentum Software
-    tagline: Header Tagline
+    tagline: Entidades financieras
     profile_img: images/avatar.png
     background: dark
     has_nav: true
